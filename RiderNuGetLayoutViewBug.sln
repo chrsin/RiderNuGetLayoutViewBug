@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderNuGetLayoutViewBug", "RiderNuGetLayoutViewBug\RiderNuGetLayoutViewBug.csproj", "{D433A0FD-194A-420B-BA22-7B92D517B0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetPackageWithView", "NuGetPackageWithView\NuGetPackageWithView.csproj", "{13E0D76C-D6E7-4BA6-A185-B74879D3AE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D433A0FD-194A-420B-BA22-7B92D517B0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D433A0FD-194A-420B-BA22-7B92D517B0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D433A0FD-194A-420B-BA22-7B92D517B0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D433A0FD-194A-420B-BA22-7B92D517B0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E0D76C-D6E7-4BA6-A185-B74879D3AE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E0D76C-D6E7-4BA6-A185-B74879D3AE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E0D76C-D6E7-4BA6-A185-B74879D3AE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E0D76C-D6E7-4BA6-A185-B74879D3AE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
